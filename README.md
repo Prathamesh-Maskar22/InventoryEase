@@ -44,6 +44,13 @@
 
 ##  📸 Screenshots
 
+   - Home Page
 ![screencapture-localhost-3000-2025-05-03-20_28_18](https://github.com/user-attachments/assets/332c0759-cf79-4df1-a078-456921953809)
+
+   - Product Page
+![screencapture-localhost-3000-products-2025-05-03-20_35_55](https://github.com/user-attachments/assets/e88e9c0a-62c2-4b82-a4b9-80b2c115b097)
+
+   - Add Product 
+![screencapture-localhost-3000-insertproduct-2025-05-03-20_37_00](https://github.com/user-attachments/assets/25949daa-e9c7-4b36-9ffa-38bc7a8a473b)
 
 
