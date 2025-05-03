@@ -42,4 +42,8 @@
    - npm start
    ![image](https://github.com/mhy20401/Inventory-Management-System-MERN-CRUD-Project/assets/99351091/93fa528b-bc88-49c2-9922-19b317336b7c)
 
+##  📸 Screenshots
+
+![screencapture-localhost-3000-2025-05-03-20_28_18](https://github.com/user-attachments/assets/332c0759-cf79-4df1-a078-456921953809)
+
 
