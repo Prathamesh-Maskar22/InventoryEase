@@ -1,6 +1,8 @@
 const mongoose = require('mongoose')
 const mongoURI = "mongodb://127.0.0.1:27017/IMS";
-const DB= "mongodb+srv://maskarprathmesh22:prathamesh@cluster0.diskboq.mongodb.net/IMS?retryWrites=true&w=majority"
+require('dotenv').config(); // Load environment variables
+
+const DB = process.env.MONGO_URI;
 
 const connectToMongo = async () => {
   try {
