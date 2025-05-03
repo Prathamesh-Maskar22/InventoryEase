@@ -19,7 +19,7 @@
 
 - **Frontend**: React.js, Bootstrap
 - **Backend**: Node.js, Express.js
-- **Database**: (Assumed MongoDB / JSON storage – replace with actual DB if needed)
+- **Database**: MongoDB
 - **Communication**: RESTful APIs
 
 ---
@@ -45,12 +45,13 @@
 ##  📸 Screenshots
 
    - Home Page
-![screencapture-localhost-3000-2025-05-03-20_28_18](https://github.com/user-attachments/assets/332c0759-cf79-4df1-a078-456921953809)
+![screencapture-localhost-3000-2025-05-03-20_40_59](https://github.com/user-attachments/assets/958b709a-ed40-4d0b-bfa1-5380c7d2910e)
 
    - Product Page
-![screencapture-localhost-3000-products-2025-05-03-20_35_55](https://github.com/user-attachments/assets/e88e9c0a-62c2-4b82-a4b9-80b2c115b097)
+![screencapture-localhost-3000-products-2025-05-03-20_42_00](https://github.com/user-attachments/assets/94e5ab51-0959-4cea-a382-9a09f9be13af)
+
 
    - Add Product 
-![screencapture-localhost-3000-insertproduct-2025-05-03-20_37_00](https://github.com/user-attachments/assets/25949daa-e9c7-4b36-9ffa-38bc7a8a473b)
+![screencapture-localhost-3000-insertproduct-2025-05-03-20_42_31](https://github.com/user-attachments/assets/11a4f6b8-d58b-4f53-8caa-e0c6c5d4828d)
 
 
