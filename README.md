@@ -6,12 +6,12 @@
 
 ## 🔧 Features
 
-- ➕ Add new products with name, price, and barcode
-- 🛠️ Edit existing product details
-- 🔍 Fetch product data via dynamic route (e.g., `/products/:id`)
-- 🔒 Input validations and barcode length restriction (max 12 digits)
-- 🚀 Smooth update flow with loading states and error handling
-- 💻 Clean, responsive UI using Bootstrap
+-  Add new products with name, price, and barcode
+-  Edit existing product details
+-  Fetch product data via dynamic route (e.g., `/products/:id`)
+-  Input validations and barcode length restriction (max 12 digits)
+-  Smooth update flow with loading states and error handling
+-  Clean, responsive UI using Bootstrap
 
 ---
 
