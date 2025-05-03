@@ -24,8 +24,6 @@
 
 ---
 
-## 📁 Folder Structure (basic)
-
 ## To Run App:
 
 ### 1. Open the folder in vs code and run (npm install) command.
@@ -43,4 +41,5 @@
    - cd inventory_management_system
    - npm start
    ![image](https://github.com/mhy20401/Inventory-Management-System-MERN-CRUD-Project/assets/99351091/93fa528b-bc88-49c2-9922-19b317336b7c)
+
 
