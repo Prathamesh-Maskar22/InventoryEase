@@ -19,12 +19,10 @@
 
 - **Frontend**: React.js, Bootstrap
 - **Backend**: Node.js, Express.js
-- **Database**: (Assumed MongoDB / JSON storage – replace with actual DB if needed)
+- **Database**: MongoDB
 - **Communication**: RESTful APIs
 
 ---
-
-## 📁 Folder Structure (basic)
 
 ## To Run App:
 
@@ -43,4 +41,17 @@
    - cd inventory_management_system
    - npm start
    ![image](https://github.com/mhy20401/Inventory-Management-System-MERN-CRUD-Project/assets/99351091/93fa528b-bc88-49c2-9922-19b317336b7c)
+
+##  📸 Screenshots
+
+   - Home Page
+![screencapture-localhost-3000-2025-05-03-20_40_59](https://github.com/user-attachments/assets/958b709a-ed40-4d0b-bfa1-5380c7d2910e)
+
+   - Product Page
+![screencapture-localhost-3000-products-2025-05-03-20_42_00](https://github.com/user-attachments/assets/94e5ab51-0959-4cea-a382-9a09f9be13af)
+
+
+   - Add Product 
+![screencapture-localhost-3000-insertproduct-2025-05-03-20_42_31](https://github.com/user-attachments/assets/11a4f6b8-d58b-4f53-8caa-e0c6c5d4828d)
+
 
